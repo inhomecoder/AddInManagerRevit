@@ -1,0 +1,15 @@
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\AddInManager.FormAbout.resources
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\AddInManager.Properties.Resources.resources
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\AddInManager.csproj.GenerateResource.cache
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\AddInManager.csproj.CoreCompileInputs.cache
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\bin\Release\RevitAddInManager.exe.config
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\bin\Release\RevitAddInManager.exe
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\bin\Release\RevitAddInManager.pdb
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\RevitAddInManager.exe
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\RevitAddInManager.pdb
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\AddInManager.AddInForm.resources
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\AddInManager.FormEnable.resources
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\RevitAddInManager.g.resources
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\AddInManager.ComboForm.resources
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\AddInManager.csproj.AssemblyReference.cache
+M:\06_EDV\670_Entwicklung\675_Tools\RevitAddInManager\AddInManager\obj\Release\AddInManager.FormStart.resources
